@@ -1,0 +1,46 @@
+body{
+    background-image: url('../imgs/beach-bg3.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    line-height: 1.7em;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+
+.logo{
+    border-radius: 50%;
+}
+
+.imgs{
+    border-radius: 10px;
+}
+
+.block{
+    width: 70%;
+    margin: 0 15%;
+    background-color: #ccf5ff;
+    border-radius: 10px;
+    padding: 0px 20px;
+}
+
+caption{
+    font-size: 20px;
+}
+
+footer{
+    background-color: orangered;
+    font-size: 25px;
+}
+
+.copy{font-size: 14px;}
+
+svg:hover{
+    transform: scale(1.2) !important;
+}
+
+.descr{
+    font-size: 15px;
+    font-style: italic;
+}
+
+a{text-decoration: none;}

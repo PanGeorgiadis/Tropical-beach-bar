@@ -7,13 +7,9 @@ body{
     font-size: 18px;
 }
 
-.logo{
-    border-radius: 50%;
-}
+.logo{border-radius: 50%;}
 
-.imgs{
-    border-radius: 10px;
-}
+.imgs{border-radius: 10px;}
 
 .block{
     width: 70%;
@@ -23,9 +19,7 @@ body{
     padding: 0px 20px;
 }
 
-caption{
-    font-size: 20px;
-}
+caption{font-size: 20px;}
 
 footer{
     background-color: orangered;
@@ -34,9 +28,7 @@ footer{
 
 .copy{font-size: 14px;}
 
-svg:hover{
-    transform: scale(1.2) !important;
-}
+svg:hover{transform: scale(1.2) !important;}
 
 .descr{
     font-size: 15px;
